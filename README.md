@@ -108,14 +108,14 @@ Entre los principales hallazgos se encuentra la existencia de clientes con difer
 
 ---
 
-## ▶️ Cómo ejecutar el notebook
+##  Cómo ejecutar el notebook
 
 El análisis puede ejecutarse utilizando **Google Colab**, sin necesidad de instalar Python o las librerías de manera local.
 
 ### Opción 1: Google Colab
 
 1. Abrir [Google Colab](https://colab.research.google.com/).
-2. Seleccionar **"Archivo → Abrir cuaderno"**.
+2. Seleccionar **"Proyecto S7 → Abrir Notebook"**.
 3. Subir el archivo `.ipynb` del proyecto.
 4. Subir también el dataset utilizado, si el notebook lo requiere.
 5. Ejecutar las celdas en orden utilizando **"Entorno de ejecución → Ejecutar todas"**.
